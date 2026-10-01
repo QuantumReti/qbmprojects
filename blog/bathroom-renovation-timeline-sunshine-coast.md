@@ -105,7 +105,7 @@ Any required wall framing, floor preparation, sheeting and substrate work is com
 
 #### Waterproofing
 
-This is one of the stages we will not rush. [QBCC guidance highlights waterproofing as a major defect area in residential construction][1] and stresses correct preparation, compliance with standards, manufacturer instructions, adequate curing time, inspections before work is covered, and proper records and certificates.
+This is one of the stages we will not rush. QBCC guidance highlights waterproofing as a major defect area in residential construction and stresses correct preparation, compliance with standards, manufacturer instructions, adequate curing time, inspections before work is covered, and proper records and certificates.
 
 Trying to save time here is false economy. You might not see the membrane once the bathroom is finished, but it protects the structure behind thousands of dollars of tiles, cabinetry and fixtures.
 
@@ -214,7 +214,7 @@ They can, depending on the scope. Straightforward internal bathroom work may be 
 
 ## Why waterproofing should never be rushed
 
-Bathrooms fail from the parts you cannot see just as often as the parts you can. [QBCC has identified waterproofing as a significant defect area][1] and warns builders and trades to focus on correct preparation, standards, manufacturer instructions, curing times, inspections and documentation. We would rather hand the bathroom over slightly later than hide a problem behind a beautiful tile.
+Bathrooms fail from the parts you cannot see just as often as the parts you can. QBCC has identified waterproofing as a significant defect area and warns builders and trades to focus on correct preparation, standards, manufacturer instructions, curing times, inspections and documentation. We would rather hand the bathroom over slightly later than hide a problem behind a beautiful tile.
 
 ---
 
@@ -275,9 +275,9 @@ QBM Projects completes bathroom, ensuite, kitchen, laundry, apartment and full h
 
 ## Sources
 
-[1]: Queensland Building and Construction Commission: [Waterproofing done right](https://www.qbcc.qld.gov.au/); [Handover and final documentation](https://www.qbcc.qld.gov.au/); [Guide to apartment renovations](https://www.qbcc.qld.gov.au/); and [Plumbing problems: what Queensland homeowners need to know](https://www.qbcc.qld.gov.au/).
+**Queensland Building and Construction Commission:** Waterproofing done right; Handover and final documentation; Guide to apartment renovations; and Plumbing problems: what Queensland homeowners need to know.
 
-**Sunshine Coast Council:** [Plumbing and drainage work](https://www.sunshinecoast.qld.gov.au/); [What needs building approval](https://www.sunshinecoast.qld.gov.au/); and [Building work applications](https://www.sunshinecoast.qld.gov.au/).
+**Sunshine Coast Council:** Plumbing and drainage work; What needs building approval; and Building work applications.
 
 ---
 
